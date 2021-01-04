@@ -7,3 +7,5 @@ This project was an investigation as to how accurate the Pythagorean Expectation
 Code - Jupyter Notebook containing graphs showing RMSE of predicting the next season's win percentage for each sport, as well as a correlation plot of actual vs expected wins.
 
 Data - CSV files containing data for MLB, NBA, NHL and NFL seasons over varying years
+
+Report - An in-depth analysis of the results of the project.
